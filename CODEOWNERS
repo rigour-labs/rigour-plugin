@@ -1,0 +1,8 @@
+# Rigour Plugin Code Owners
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+*       @erashu212
+
+# Plugin manifest and skills
+.claude-plugin/     @erashu212
