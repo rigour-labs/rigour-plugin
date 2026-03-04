@@ -1,6 +1,6 @@
 {
   "name": "Rigour",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Meta-cognitive governance for AI agents. Monitor drift, manage agent teams, and enforce quality gates during long-running coworking tasks.",
   "author": "Rigour Labs",
   "capabilities": {
