@@ -1,0 +1,22 @@
+{
+  "name": "rigour-plugin",
+  "version": "0.0.0-development",
+  "private": true,
+  "description": "Rigour plugin metadata and release automation",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "validate:metadata": "node scripts/validate-metadata.mjs",
+    "release:dry-run": "semantic-release --dry-run --no-ci",
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.1.0",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^10.1.4",
+    "@semantic-release/release-notes-generator": "^12.1.0",
+    "semantic-release": "^24.2.3"
+  }
+}

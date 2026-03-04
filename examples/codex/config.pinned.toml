@@ -1,0 +1,3 @@
+[mcp_servers.rigour]
+command = "npx"
+args = ["-y", "@rigour-labs/mcp@2.14.0"]
