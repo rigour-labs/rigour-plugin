@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rigour": {
+      "command": "npx",
+      "args": ["--yes", "@rigour-labs/mcp@6"]
+    }
+  }
+}

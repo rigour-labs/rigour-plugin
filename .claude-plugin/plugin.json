@@ -1,16 +1,13 @@
 {
-  "name": "Rigour",
+  "name": "rigour",
   "version": "1.0.0",
-  "description": "Meta-cognitive governance for AI agents. Monitor drift, manage agent teams, and enforce quality gates during long-running coworking tasks.",
-  "author": "Rigour Labs",
-  "capabilities": {
-    "mcp": {
-      "enabled": true
-    }
+  "description": "Reviews your agent's change before it says done. Speaks only when it can prove a bug, gives the same answer every run, and runs free on your machine.",
+  "author": {
+    "name": "Rigour Labs",
+    "url": "https://github.com/rigour-labs"
   },
-  "icon": "🛡️",
-  "categories": [
-    "Productivity",
-    "Developer Tools"
-  ]
+  "homepage": "https://github.com/rigour-labs/rigour",
+  "repository": "https://github.com/rigour-labs/rigour-plugin",
+  "license": "MIT",
+  "keywords": ["code-review", "pre-pr", "quality-gates", "hallucinated-imports", "security", "deterministic", "mcp"]
 }

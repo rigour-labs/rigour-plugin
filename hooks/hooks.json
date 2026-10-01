@@ -1,0 +1,16 @@
+{
+  "description": "Before Claude finishes, review the uncommitted change and send back only the serious, provable findings.",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "npx --yes @rigour-labs/cli@6 hooks stop --tool claude",
+            "timeout": 120
+          }
+        ]
+      }
+    ]
+  }
+}
