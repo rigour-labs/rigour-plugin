@@ -1,6 +1,6 @@
 {
   "name": "rigour",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reviews your agent's change before it says done. Speaks only when it can prove a bug, gives the same answer every run, and runs free on your machine.",
   "author": {
     "name": "Rigour Labs",
@@ -9,5 +9,13 @@
   "homepage": "https://github.com/rigour-labs/rigour",
   "repository": "https://github.com/rigour-labs/rigour-plugin",
   "license": "MIT",
-  "keywords": ["code-review", "pre-pr", "quality-gates", "hallucinated-imports", "security", "deterministic", "mcp"]
+  "keywords": [
+    "code-review",
+    "pre-pr",
+    "quality-gates",
+    "hallucinated-imports",
+    "security",
+    "deterministic",
+    "mcp"
+  ]
 }

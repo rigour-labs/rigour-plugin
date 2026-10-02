@@ -1,6 +1,6 @@
 {
   "name": "rigour-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Rigour plugin metadata and release automation",
   "license": "MIT",

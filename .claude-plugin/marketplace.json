@@ -1,7 +1,7 @@
 {
   "$schema": "https://claude.com/schemas/marketplace.schema.json",
   "name": "rigour-labs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "metadata": {
     "description": "Rigour: code review that happens while your agent writes the code."
   },
